@@ -1,0 +1,4 @@
+termcolor
+google-api-python-client
+google-generativeai
+utils
